@@ -1,3 +1,5 @@
+//----BANK APP PROGRAMME---
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -192,3 +194,40 @@ public class Match {
 
     }
 }
+
+/*
+ * ---OUT PUT---
+ * 
+ * Enter the Team1 :
+ * Sri Lanka
+ * Enter the Team2 :
+ * India
+ * Winning Team = India
+ * 
+ * ---Batsman Deatils---
+ * Name : Dinesh Chandimal
+ * Birthday : 18/11/1989
+ * Height : 5.8
+ * Country : Sri Lanaka
+ * Runs : 774
+ * Innings : 46
+ * Ball Faced : 746
+ * 
+ * Batting Average : 0.0
+ * Batting Strike Rate : 0.0
+ * Not Eligible to play for the Twenty20 matches.
+ * Highest Score : 96
+ * 
+ * ---Bowler Deatils---
+ * Name : Lasith Malinga
+ * Birthday : 28/08/1983
+ * Height : 5.6
+ * Country : Sri Lanka
+ * Runs : 1780
+ * Wickets : 90
+ * Balls : 1451
+ * 
+ * Bowling Average : 19.0
+ * Bowling Economy Rate : 7.0
+ * Bowling Strike Rate : 16.0
+ */
